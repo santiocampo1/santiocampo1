@@ -18,7 +18,6 @@
 - A Full Stack Developer in progress & Challenges enthusiast.
 - A Bootcamp's student at <a href="https://www.soyhenry.com/">Henry</a>. 
 - Currently working on some of my cool projects based on Web Development.
-- I'm a Sports lover too! Running is my favourite hobby (after coding in javascript of course 👀).
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
 Thanks for Looking at my Profile!😄 
