@@ -15,9 +15,9 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ### I am Santiago Ocampo
-- A Full Stack Developer in progress & Challenges enthusiast.
+- A Full Stack Developer in progress & challenges enthusiast.
 - A Bootcamp's student at <a href="https://www.soyhenry.com/">Henry</a>. 
 - Currently working on some of my cool projects based on Web Development.
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
-Thanks for Looking at my Profile!😄 
+Thanks for Looking at my Profile! 
