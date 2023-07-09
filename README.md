@@ -6,7 +6,7 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-<h3> 🙂 &nbsp;My name is Santiago Ocampo</h3>
+<h3>&nbsp;My name is Santiago Ocampo 😎</h3>
 - A Full Stack Developer & challenges enthusiast. </br>
 - Growing is my daily personal goal. </br> 
 - Currently working on some of my cool projects based on Web Development. </br>
