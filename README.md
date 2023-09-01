@@ -8,7 +8,7 @@
 
 <h3>&nbsp;My name is Santiago Ocampo 😎</h3>
 - A Full Stack Developer & challenges enthusiast. </br>
-- Growing is my daily personal goal. </br> 
+- Growth is my daily personal goal. </br> 
 - Currently working on some of my cool projects based on Web Development. </br>
 - I'm looking for opportunities. I love to learn and contribute in any and every possible way. </br>
 
