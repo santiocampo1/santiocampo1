@@ -14,7 +14,7 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java) </br>
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java) </br>
   ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=Kotlin) </br>
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) </br>
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) </br>
@@ -25,6 +25,7 @@
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL) </br>
   ![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=sequelize) </br>
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C) </br>
+  ![Amazon Web Services](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws) </br>
   ![Slack](https://img.shields.io/badge/-Slack-333333?style=flat&logo=slack&logoColor=563D7C) </br>
   
 Thanks for looking at my profile! 
