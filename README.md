@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/-Astro-FF5D01?style=flat&logo=astro&logoColor=white" alt="Astro" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -34,8 +35,10 @@
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="Amazon Web Services" />
+  <img src="https://img.shields.io/badge/-Docker-0052CC?style=flat&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white" alt="Jira" />
   <img src="https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white" alt="Slack" />
 </p>
+
 
 Thanks for looking at my profile!
