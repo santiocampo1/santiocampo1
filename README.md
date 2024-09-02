@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/-Node.js-5CBF3F?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/-Django-123123?style=flat&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/-Spring%20Boot-8DC655?style=flat&logo=spring&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/-Quarkus-FE084F?style=flat&logo=quarkus&logoColor=white" alt="Quarkus" />
   <img src="https://img.shields.io/badge/-Express-333333?style=flat&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/-MySQL-548CA8?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/-PostgreSQL-457DAA?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
